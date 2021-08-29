@@ -1,4 +1,4 @@
-# flutter_mockito_unit_testing
+# Flutter_Mockito_Unit_Testing
 
 A new Flutter project.
 
